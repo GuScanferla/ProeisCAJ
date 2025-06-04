@@ -1,6 +1,6 @@
 # Sistema PROEIS - Águas de Juturnaíba
 
-Sistema de acompanhamento para equipes PROEIS (Programa de Redução de Perdas).
+Sistema de acompanhamento para equipes PROEIS.
 
 ## 🚀 Funcionalidades
 
