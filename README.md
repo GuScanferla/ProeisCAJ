@@ -19,7 +19,6 @@ Sistema de acompanhamento para equipes PROEIS.
 
 ## 📊 Estrutura do Projeto
 
-\`\`\`
 sistema-proeis/
 ├── config/
 │   ├── database.php      # Configurações do banco
@@ -32,7 +31,6 @@ sistema-proeis/
 │       └── style.css    # Estilos do sistema
 ├── database.sql         # Script de criação do banco
 └── README.md
-\`\`\`
 
 ---
 
