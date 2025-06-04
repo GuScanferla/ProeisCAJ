@@ -21,7 +21,7 @@ Sistema de acompanhamento para equipes PROEIS (Programa de Redução de Perdas).
 
 ### 1. Clone o repositório
 \`\`\`bash
-git clone https://github.com/seu-usuario/sistema-proeis.git
+git clone https://github.com/seu-usuario/ProeisCAJ.git
 cd sistema-proeis
 \`\`\`
 
