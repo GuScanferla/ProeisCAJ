@@ -1,0 +1,34 @@
+# Arquivos de configuração sensíveis
+.env
+config/database_local.php
+
+# Logs
+*.log
+logs/
+
+# Cache
+cache/
+tmp/
+
+# Uploads
+uploads/
+files/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.backup
+*.sql
+
+# Composer (se usar)
+vendor/
+composer.lock
